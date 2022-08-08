@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  fluent-bit-aws:
+  - apiVersion: v1
+    appVersion: 2.21.5
+    created: "2022-08-08T18:36:21.987722306Z"
+    digest: fa71f072a7c2902e65f902a1935b55c53f12239ced4b9792e26b58d95d05c6ee
+    name: fluent-bit-aws
+    urls:
+    - https://github.com/irepan/harness-helm-charts/releases/download/fluent-bit-aws-0.1.0/fluent-bit-aws-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-08T18:36:21.987726606Z"
